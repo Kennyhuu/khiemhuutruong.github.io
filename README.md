@@ -40,7 +40,7 @@
 - Final Grade: 2.1 (Good)  
 - Thesis: *"Development and Construction of a Remote-Controlled Camera with Automation Considerations"*
 
-### Bachelor's Degree in Chemical Engineering  
+### Bachelor in Chemical Engineering  
 **Karlsruhe Institute of Technology**  
 *October 2010 – September 2013*  
 - Transferred to Computer Science  
