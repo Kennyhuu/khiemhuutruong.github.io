@@ -4,7 +4,7 @@
 
 ### Software Engineer  
 **Synpulse Deutschland GmbH, Düsseldorf**  
-*January 2023 – Present*  
+*January 2023 – Juni 2025*  
 - Co-developed a cutting-edge Intelligent Document Processing (IDP) system for accurate and efficient data extraction using technologies such as Computer Vision, Optical Character Recognition (OCR), and Natural Language Processing (NLP), within an agile, cross-functional team. Stack: Python, Java, Spring, PostgreSQL.  
 - Maintained and further developed existing software solutions post-company acquisition, ensuring smooth handover and continuous system stability.
 
@@ -50,33 +50,26 @@
 ## Technical Skills
 
 ### Programming Languages
-- **Advanced:** Java, Python  
-- **Basic:** JavaScript, Shell Script  
+- Java, Python, JavaScript, Shell Script
 
-### Frameworks & Development Tools
-- **Advanced:** JUnit, Pytest  
-- **Good:** Spring, Gradle, Maven  
+### Frameworks & Backend
+- Spring Boot, FastAPI, Flask, JUnit, Pytest
 
-### Databases
-- **Advanced:** PostgreSQL  
-- **Basic:** MongoDB  
 
-### Collaboration Tools
-- **Advanced:** GitHub, Bitbucket, Confluence, Jira  
+### Cloud & DevOps
+- AWS, Docker, Kubernetes, CI/CD
 
-### APIs & Event Streaming
-- **Good:** FastAPI, Flask, Apache Kafka  
+### Database & Messaging
+- PostgreSQL, MongoDB, Apache Kafka
 
-### Computer Vision
-- **Good:** OpenCV, TesseractOCR  
-- **Basic:** Detectron2  
+### AI & Computer Vision
+- OpenCV, Tesseract OCR, Detectron2
 
-### Containerization & Orchestration
-- **Advanced:** Docker  
-- **Basic:** Kubernetes  
+### Build Tools
+- Gradle, Maven  
 
-### Office Software
-- **Good:** Excel, Word, PowerPoint  
+### Tools & Collaboration
+- GitHub, Bitbucket, Jira, Confluence
 
 ---
 
@@ -97,4 +90,4 @@
 
 ---
 
-*Frankfurt am Main, June 3, 2025*
+*Frankfurt am Main, June 3, 2026*
