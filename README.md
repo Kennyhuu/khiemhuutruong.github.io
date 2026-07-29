@@ -1,26 +1,52 @@
-## Work Experience
+
+
+
+## PROFESSIONAL EXPERIENCE
 
 ### Software Engineer  
-**Synpulse Deutschland GmbH, Düsseldorf**  
+**Software Engineer at Synpulse8 Deutschland GmbH, Düsseldorf​**  
 *January 2023 – Juni 2025*  
-- Co-developed a cutting-edge Intelligent Document Processing (IDP) system for accurate and efficient data extraction using technologies such as Computer Vision, Optical Character Recognition (OCR), and Natural Language Processing (NLP), within an agile, cross-functional team. Stack: Python, Java, Spring, PostgreSQL.  
-- Maintained and further developed existing software solutions post-company acquisition, ensuring smooth handover and continuous system stability.
+✔​ Development of a state-of-the-art “Intelligent Document Processing” (IDP) system for
+precise and efficient data extraction using advanced technologies such as computer vision,
+optical character recognition (OCR), and natural language processing (NLP). This was
+carried out in close collaboration with an agile, interdisciplinary team using Python, Java,
+Spring, and PostgreSQL.
+✔​ Further development and maintenance of existing software solutions following the sale of
+the company, including ensuring a smooth handover and continuous maintenance of
+system stability.
+✔​ On-premises deployment of the developed solutions directly at the customer’s site, as
+well as assistance in creating the user manual for customers
+✔​ Development of prototypes for generative AI applications based on Python and Palantir
+Foundry
 
 ### Software Developer  
 **Minds-Medical GmbH, Frankfurt am Main**  
 *April 2022 – December 2022*  
-- Designed and implemented an AI-powered service to structure unstructured data and extract relevant information using Python, Docker, Apache Kafka, and PostgreSQL.  
-- Co-developed an AI-based assistant system for healthcare data processing within an agile team. Stack: Java, Spring, MongoDB.  
-- Integrated and processed patient data from hospital information systems (HIS) using MsSQL for efficient use in medical applications.
+✔​ Design and implementation of an AI-powered service for structuring unstructured data
+and extracting relevant information, using technologies such as Python, Docker, Apache
+Kafka, and PostgreSQL.
+✔​ Development of an AI-powered healthcare assistance system to optimize data processing
+workflows as part of an agile team. Using Java, Spring, and MongoDB.
+✔​ Integration and processing of patient data from hospital information systems (HIS) for
+efficient use in medical applications, using MySQL.
 
 ---
 
-## Student Jobs & Internships
+### PROFESSIONAL DEVELOPMENT
+**AWS & Cloud Computing Weiterbildung – Neue Fische, Berlin​**
+*since 04/2026*
+✔​ Hands-on continuing education in cloud engineering and AWS
+✔​ Preparation for AWS certifications and cloud architectures
+✔​ Working with AWS services, Docker, Kubernetes, and CI/CD pipelines
+✔​ Implementation of practical cloud and deployment projects
+✔​ Application of agile methods and collaboration in project-oriented teams
 
-- **Working Student**, Minds-Medical GmbH, Frankfurt am Main (04/2018 – 03/2022)  
-- **IT Community Administrator**, Continental AG, Eschborn (07/2016 – 12/2016)  
-- **Service Staff**, LeMac Riceburger UG, Frankfurt am Main (07/2014 – 07/2016)  
-- **IT Support Intern**, T&T Group, Hanoi, Vietnam (07/2010 – 08/2010)  
+---
+
+## PART-TIME JOBS AND INTERNSHIPS
+✔​ Working Student at Minds-Medical GmbH, Frankfurt am Main ​ ​04/2018 – 03/2022
+✔​ IT-Community Administrator at Continental AG, Eschborn​​07/2016 – 12/2016
+✔​ IT-Support at T&T Group, Hanoi, Vietnam ​​07/2010 – 08/2010
 
 ---
 
@@ -80,12 +106,13 @@
 
 ## Interests
 
-### Experimenting with New Technologies and Concepts
-- Exploring innovative approaches in software development and artificial intelligence.
-
-### Pen-and-Paper, Tabletop, and Board Games
-- Fostering creativity, teamwork, storytelling, and strategic thinking.
+✔​ New technologies and artificial intelligence – Experimenting with modern tools
+and concepts in software development
+✔​ Technology trends and technical literature – Keeping up with current
+developments in software development and IT
+✔​ Logic and strategy games – Fostering analytical thinking and structured
+problem-solving
 
 ---
 
-*Frankfurt am Main, June 3, 2026*
+*Frankfurt am Main, July 29, 2026*
