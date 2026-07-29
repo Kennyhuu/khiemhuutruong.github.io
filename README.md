@@ -32,10 +32,10 @@ Foundry
 
 ---
 
-## PART-TIME JOBS AND INTERNSHIPS
--​ Working Student at Minds-Medical GmbH, Frankfurt am Main ​ ​04/2018 – 03/2022
--​ IT-Community Administrator at Continental AG, Eschborn​​07/2016 – 12/2016
--​ IT-Support at T&T Group, Hanoi, Vietnam ​​07/2010 – 08/2010
+## PART-TIME JOBS AND INTERNSHIPS0
+- Software Developer (Working Student) at Minds-Medical GmbH, Frankfurt am Main ​ ​04/2018 – 03/2022
+- IT-Community Administrator at Continental AG, Eschborn​​ 07/2016 – 12/2016
+- IT-Support at T&T Group, Hanoi, Vietnam ​​07/2010 – 08/2010
 
 ---
 
@@ -94,13 +94,9 @@ Foundry
 ---
 
 ## Interests
-
-✔​ New technologies and artificial intelligence – Experimenting with modern tools
-and concepts in software development
-✔​ Technology trends and technical literature – Keeping up with current
-developments in software development and IT
-✔​ Logic and strategy games – Fostering analytical thinking and structured
-problem-solving
+- New technologies and artificial intelligence – Experimenting with modern tool and concepts in software development
+- Technology trends and technical literature – Keeping up with current developments in software development and IT
+- Logic and strategy games – Fostering analytical thinking and structured problem-solving
 
 ---
 
