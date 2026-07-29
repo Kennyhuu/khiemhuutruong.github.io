@@ -1,5 +1,3 @@
-# Khiem Truong Huu
-
 ## Work Experience
 
 ### Software Engineer  
