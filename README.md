@@ -6,40 +6,29 @@
 ### Software Engineer  
 **Software Engineer at Synpulse8 Deutschland GmbH, Düsseldorf​**  
 *January 2023 – Juni 2025*  
-- Development of a state-of-the-art “Intelligent Document Processing” (IDP) system for
-precise and efficient data extraction using advanced technologies such as computer vision,
-optical character recognition (OCR), and natural language processing (NLP). This was
-carried out in close collaboration with an agile, interdisciplinary team using Python, Java,
-Spring, and PostgreSQL.
--​ Further development and maintenance of existing software solutions following the sale of
-the company, including ensuring a smooth handover and continuous maintenance of
-system stability.
--​ On-premises deployment of the developed solutions directly at the customer’s site, as
-well as assistance in creating the user manual for customers
--​ Development of prototypes for generative AI applications based on Python and Palantir
+- Development of a state-of-the-art “Intelligent Document Processing” (IDP) system for precise and efficient data extraction using advanced technologies such as computer vision, optical character recognition (OCR), and natural language processing (NLP). This was carried out in close collaboration with an agile, interdisciplinary team using Python, Java, Spring, and PostgreSQL.
+- Further development and maintenance of existing software solutions following the sale of the company, including ensuring a smooth handover and continuous maintenance of system stability.
+- On-premises deployment of the developed solutions directly at the customer’s site, as well as assistance in creating the user manual for customers
+- Development of prototypes for generative AI applications based on Python and Palantir
 Foundry
 
 ### Software Developer  
 **Minds-Medical GmbH, Frankfurt am Main**  
 *April 2022 – December 2022*  
--​ Design and implementation of an AI-powered service for structuring unstructured data
-and extracting relevant information, using technologies such as Python, Docker, Apache
-Kafka, and PostgreSQL.
--​ Development of an AI-powered healthcare assistance system to optimize data processing
-workflows as part of an agile team. Using Java, Spring, and MongoDB.
--​ Integration and processing of patient data from hospital information systems (HIS) for
-efficient use in medical applications, using MySQL.
+- Design and implementation of an AI-powered service for structuring unstructured data and extracting relevant information, using technologies such as Python, Docker, Apache Kafka, and PostgreSQL.
+- Development of an AI-powered healthcare assistance system to optimize data processing workflows as part of an agile team. Using Java, Spring, and MongoDB.
+- Integration and processing of patient data from hospital information systems (HIS) for efficient use in medical applications, using MySQL.
 
 ---
 
 ### PROFESSIONAL DEVELOPMENT
 **AWS & Cloud Computing Weiterbildung – Neue Fische, Berlin​**
 *since 04/2026*
--​ Hands-on continuing education in cloud engineering and AWS
--​ Preparation for AWS certifications and cloud architectures
--​ Working with AWS services, Docker, Kubernetes, and CI/CD pipelines
--​ Implementation of practical cloud and deployment projects
--​ Application of agile methods and collaboration in project-oriented teams
+- Hands-on continuing education in cloud engineering and AW
+- Preparation for AWS certifications and cloud architectures
+- Working with AWS services, Docker, Kubernetes, and CI/CD pipelines
+- Implementation of practical cloud and deployment projects
+- Application of agile methods and collaboration in project-oriented teams
 
 ---
 
